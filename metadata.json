@@ -1,0 +1,6 @@
+{
+  "name": "Attaka",
+  "description": "Libya's premier sustainable street lighting and solar energy infrastructure solutions portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
